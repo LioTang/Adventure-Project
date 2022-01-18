@@ -1,0 +1,101 @@
+body {
+    background-color: #99ebff;
+    font-family: 'Bebas Neue', cursive;
+}
+
+h1 {
+    font-size: 10em;
+    text-align: center;
+}
+
+h3 {
+    font-size: 3em;
+    text-align: center;
+}
+
+.startscreen {
+    animation-name: example;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+img {
+    height: 20em;
+    display: flex;
+    margin: auto;
+}
+
+.old-man {
+    height: 20em;
+    display: flex;
+    margin: auto;
+}
+
+.sword {
+    height: 20em;
+    display: flex;
+    margin: auto;
+}
+
+.dragon {
+    height: 20em;
+    display: flex;
+    margin: auto;
+}
+
+.Mission {
+    display: none;
+    font-size: 2em;
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: 10px auto 10px auto;
+}
+
+.page1 {
+    display: none;
+}
+
+.page6 {
+    height: 20em;
+}
+
+.page2 {
+    display: none;
+}
+
+.page2a {
+    display: none;
+}
+
+.page3 {
+    display: none;
+}
+
+.page3a {
+    display: none;
+}
+
+.page4 {
+    display: none;
+}
+
+.page4a {
+    display: none;
+}
+
+.page5 {
+    display: none;
+}
+
+.page6 {
+    display: none;
+}
+
+.page6a {
+    display: none;
+}
